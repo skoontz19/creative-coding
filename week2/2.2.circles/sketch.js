@@ -22,7 +22,7 @@ function draw() {
       strokeWeight( 14 );
 
       // line color
-      stroke("white");
+      stroke("black");
 
       // fill color
       //fill(251,random(0,255),180);
